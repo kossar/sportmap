@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Sport Map</string>
+    <string name="new_activity">New Activity</string>
+    <string name="compass">Compass</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="question_quit_tracking">Quit Tracking?</string>
+    <string name="instruction_for_quit_tracking">Press No to continue tracking</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="stopping">Stopping...</string>
+
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="log_in">Log In</string>
+    <string name="log_out">Log Out</string>
+    <string name="new_account">New Account</string>
+    <string name="not_logged_in">Not Logged In</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="register">Register</string>
+    <string name="register_new_account">Register New Account</string>
+    <string name="register_new_account_instruction">
+        Password must contain at least 6 symbols including at least 1 alphanumerical character, 1 symbol, 1 uppercase and 1 lowercase character
+    </string>
+
+    <string name="log_in_dialog_msg">In order to use app, please log in</string>
+
+    <string name="activity_name">Activity Name</string>
+    <string name="activity_description">Activity Description</string>
+    <string name="activity_dialog_title">Name Your Activity</string>
+    <string name="activity_dialog_description">Leave blank to use default settings.</string>
+    <string name="start">Start</string>
+
+    <string name="ok">OK</string>
+    <string name="sync_all">Sync All Sessions</string>
+
+    <string name="previous_sessions">Previous Sessions</string>
+    <string name="view_activity">View</string>
+    <string name="delete_activity">Delete</string>
+
+    <string name="distance">Distance</string>
+    <string name="time">Time</string>
+    <string name="pace">Pace</string>
+
+    <string name="north_up">N Up</string>
+    <string name="Direction_up">Dir Up</string>
+
+    <string name="save_gpx">Save GPX</string>
+    <string name="meter">%1$s m</string>
+    <string name="hour">%1$s h</string>
+    <string name="min_km">%1$s min/km</string>
+
+    <string name="center">Center</string>
+    <string name="de_center">De Center</string>
+    <string name="un_cen">De Cen</string>
+    <string name="compass_short">COM</string>
+
+    <string name="sync_session">Sync</string>
+    <string name="synced_session">Synced</string>
+
+    <!--    Delete session -->
+    <string name="alert_confirm_session_delete_title">Delete Session</string>
+    <string name="alert_confirm_session_delete_description">Are You sure you want to delete session?</string>
+</resources>
