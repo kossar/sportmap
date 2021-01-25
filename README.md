@@ -1,6 +1,9 @@
 "# sportmap" 
 
 School project(Native Mobile Applications)
+Tested mainly on Samsung Galaxy S10+. Android 10. Working fine in this device.
+
+Sometimes Android Studio Emulator crashed without informative stacktrace. Restart of Android Studio helped for some time etc.
 
 App created to help to orient in unknown terrain. 
 
